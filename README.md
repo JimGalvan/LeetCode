@@ -4,5 +4,5 @@ Click on the MD files of this project to see the solutions to the LeetCode chall
 
 
 ### See more of my solutions in my LeetCode and CodeWars profiles:
-https://leetcode.com/jimmy-galvan/
+https://leetcode.com/jimmy-galvan/ <br>
 https://www.codewars.com/users/jinux95
